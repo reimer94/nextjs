@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Bienvenido <a >Next.js! Reimer</a>
+          Bienvenido <a >Reimer</a>
         </h1>
 
       </main>
