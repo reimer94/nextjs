@@ -11,7 +11,11 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
+<<<<<<< HEAD
           Bienvenido <a > Reimer  el negro</a>
+=======
+          Bienvenido <a >Reimer</a>
+>>>>>>> 2b44abd8fe7da740263a580c78d4ea842464cf10
         </h1>
 
       </main>
